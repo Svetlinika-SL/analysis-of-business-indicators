@@ -64,3 +64,4 @@ Jupyter Notebook
 С результатами вы можете ознакомиться в файле.
 
 ## Ссылка на репозиторий: 
+https://svetlinika-sl.github.io/analysis_of_business_indicators/
